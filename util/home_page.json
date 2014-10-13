@@ -1,0 +1,21 @@
+{
+	"header-image-path": "app/img/",
+	"slider-one": "app/img/sliders",
+	"row-one": {
+		"column-one": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+						Fusce eleifend erat eget posuere pellentesque. Phasellus 
+						non viverra eros. Curabitur imperdiet turpis a felis commodo,
+						ut volutpat odio commodo. Mauris sem nisl, venenatis quis pellentesque at,
+						mattis in sapien. Pellentesque ac finibus urna. Aliquam erat volutpat. 
+						Vivamus pulvinar lacinia justo, eget bibendum dui hendrerit tincidunt." 
+		"column-two": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+						Fusce eleifend erat eget posuere pellentesque. Phasellus 
+						non viverra eros. Curabitur imperdiet turpis a felis commodo,
+						ut volutpat odio commodo. Mauris sem nisl, venenatis quis pellentesque at,
+						mattis in sapien. Pellentesque ac finibus urna. Aliquam erat volutpat. 
+						Vivamus pulvinar lacinia justo, eget bibendum dui hendrerit tincidunt."
+	},
+	"header-menu": ["Home", "Profile"],
+	"left-menu": [],
+	"footer-menu": ["Contact us", "Feedback"]
+}
