@@ -18,8 +18,9 @@ Installation and usage:
 
 1. Install Git
 2. Install Nodejs
-3. Run "npm install"
-4. Run "npm run build"
+3. Open Git Bash on root folder
+4. Run "npm install"
+5. Run "npm run build"
 
 Open "http://localhost:3000/"
 
