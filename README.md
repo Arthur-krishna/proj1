@@ -1,31 +1,53 @@
-proj1
-=====
+github-step-by-step
+=========================
 
-This is a simple angularjs project with a simple example webpage(as of now contains an input box).
-It is still in developing process.
+Self Guide doc for my github quick reference.
 
-Technology used:
-----------------
+Installation:
+-------------
 
-1. Nodejs
-2. Expressjs
-3. Gulpjs
-4. lesscss
-5. Angularjs
+1. Go to "http://git-scm.com/download"
+2. Download git for our OS.
+3. Run exe file
 
-Installation and usage:
+Steps for Git usage:
+---------------------------
+
+1. Go to git bash
+2. Run git clone "http://github url"
+
+Other Useful Git Commands:
+--------------------------
+New repo from local
 -----------------------
+1. Git init - starts the local folder to git base repo
+2. Git add -A - stages the updated/untracked files
+3. Git commit -m "comments are going here"
+4. Git remote add origin {http://github url}
+5. Git push origin master
 
-1. Install Git
-2. Install Nodejs
-3. Run "git clone"
-4. Open Git Bash on root folder
-5. Run "npm install"
-6. Run "npm run build"
+List remote branches:
+---------------------
+1. git branch 
+2. git branch -a (all branches - local and remote)
+3. git branch -r (only remote branches)
 
-Open "http://localhost:3000/"
+Checkout branch:
+----------------
+1. git checkout {branch name}
 
+<b>"q" to close running huge list of logs</b>
 
+Nodejs-step-by-step
+===========================
 
+Installation:
+------------
 
+1. Go to http://nodejs.org/download/
+2. Download and run your nodejs setup
 
+Install node packages:
+----------------------
+
+1. npm install <package name>
